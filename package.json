@@ -1,0 +1,12 @@
+{
+    "name": "D3heatmap",
+    "version": "1.0.0",
+    "description": "simple static d3-project",
+    "scripts": {
+      "start": "serve"
+    },
+    "dependencies": {
+      "serve": "^10.0.1"
+    },
+    "author": "JR"
+  }
